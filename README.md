@@ -4,7 +4,7 @@ Hi, I’m **Giwa Reagan Iziomo** - an engineer and data scientist passionate abo
 
 I'm currently **Head of AI and Automation** in manufacturing, leading a high-performing team to develop data-driven solutions for yield optimisation, robotics integration, computer vision, and digital twins. My projects cover commercial, financial and operational research analytics. And I post here a few of my independent projects. Ultimately, I'm focused on applying machine learning and mathematical modelling to translate process data into actionable insights and autonomous decision systems.
 
-I’m also deeply engaged in research and advanced study - exploring topics such as explainable AI, predictive digital twins, multi-sensory AI and human-inspired decision systems. I’m currently preparing manuscripts for publication in collaboration with UK academics, focusing on AI systems that combine human reasoning and data-intensive modelling in novel contexts.
+I’m also deeply engaged in research and advanced study - exploring topics such as explainable AI, predictive digital twins, multi-sensory AI and human-inspired decision systems. I’m currently preparing manuscripts for publication in collaboration with academics, focusing on AI systems that combine human reasoning and data-intensive modelling in novel contexts.
 
 On this GitHub, you’ll find:
 - Applied **machine learning and optimisation models** (e.g., yield prediction, logistics optimisation, group allocation, anomaly detection).  
