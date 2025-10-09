@@ -14,4 +14,4 @@ On this GitHub, you’ll find:
 - **Mathematical modelling notebooks** from my academic research.  
 - Clean, reproducible examples bridging engineering and AI.
 
-Always happy to collaborate in building systems that merge academic rigour with industrial practicality - models that not only work on paper, but also transform real processes on the ground.
+Always happy to collaborate in building systems that merge academic rigour with industrial practicality - models that not only work on paper, but also transform real processes on the ground. Connect with me on LinkedIn: https://www.linkedin.com/in/giwa-iziomo/.
